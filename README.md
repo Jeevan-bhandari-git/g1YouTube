@@ -1,2 +1,2 @@
 # g1YouTube
-AI summarize
+g1youtube
